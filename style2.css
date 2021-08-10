@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+html {
+	background-image: url(https://media4.giphy.com/media/Ju7l5y9osyymQ/200.gif);
+	height: 100%;
+	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: contain;
+ 	z-index: 5;
+ 	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+}
